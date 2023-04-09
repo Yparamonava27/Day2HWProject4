@@ -6,4 +6,9 @@ public static void main(String[] args) {
 	System.out.println("Still practicing stashing and pushing...");
 	
 }
+
+public void getAddress() {
+	System.out.println("My address is Alexandria, VA");
+}
+
 }
